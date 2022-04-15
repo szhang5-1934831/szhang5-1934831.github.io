@@ -1,0 +1,47 @@
+p.p1 {
+  font: 15px arial, sans-serif;
+}
+
+p.p2 {
+  font: italic bold 12px/30px Georgia, serif;
+}
+
+img.image1
+{
+	height:50px;
+	width:50px;
+}
+
+img.image2
+{
+	height:50px;
+	width:50px;
+}
+
+a:link {background-color:#B2FF99;}
+a:visited {background-color:#FFFF85;}
+a:hover {background-color:#FF704D;}
+a:active {background-color:#FF704D;}
+
+img.image3
+{
+  margin:20px 20px 20px 20px;
+}
+
+span.s {
+float: left;
+width: 0.7em;
+font-size: 300%;
+font-family: algerian, courier;
+line-height: 80%;
+}
+
+div.c
+{
+text-align:center;
+border:20px dotted #a1a1a1;
+padding:10px 40px;
+background:#dddddd;
+width:350px;
+border-radius:25px;
+}
