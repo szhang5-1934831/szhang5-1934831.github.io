@@ -1,9 +1,9 @@
 p.p1 {
-  font: 15px arial, sans-serif;
+  font: 10px arial, sans-serif;
 }
 
 p.p2 {
-  font: italic bold 12px/30px Georgia, serif;
+  font: italic bold 15px/30px Georgia, serif;
 }
 
 img.image1
@@ -18,10 +18,10 @@ img.image2
 	width:50px;
 }
 
-a:link {background-color:#B2FF99;}
-a:visited {background-color:#FFFF85;}
-a:hover {background-color:#FF704D;}
-a:active {background-color:#FF704D;}
+a:link {background-color:#76c75b;}
+a:visited {background-color:#cfcf5d;}
+a:hover {background-color:#b6604a;}
+a:active {background-color:#c7330f;}
 
 img.image3
 {
@@ -31,7 +31,7 @@ img.image3
 span.s {
 float: left;
 width: 0.7em;
-font-size: 300%;
+font-size: 250%;
 font-family: algerian, courier;
 line-height: 80%;
 }
@@ -42,6 +42,6 @@ text-align:center;
 border:20px dotted #a1a1a1;
 padding:10px 40px;
 background:#dddddd;
-width:350px;
+width:300px;
 border-radius:25px;
 }
